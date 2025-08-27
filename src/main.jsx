@@ -7,9 +7,6 @@ import App from './App.jsx'
 
 
 
-
-
-
 function Page(){
   return (
     <>
